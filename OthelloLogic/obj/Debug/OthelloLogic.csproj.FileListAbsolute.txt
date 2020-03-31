@@ -1,0 +1,11 @@
+C:\Users\Menahem\Desktop\ToGit\B19 Ex05 MenahemOvrutski 311528160 ShainHaroni 308541713\B19 Ex05 MenahemOvrutski 311528160 ShainHaroni 308541713\Ex05.OtheloLogic\bin\Debug\OthelloLogic.dll
+C:\Users\Menahem\Desktop\ToGit\B19 Ex05 MenahemOvrutski 311528160 ShainHaroni 308541713\B19 Ex05 MenahemOvrutski 311528160 ShainHaroni 308541713\Ex05.OtheloLogic\bin\Debug\OthelloLogic.pdb
+C:\Users\Menahem\Desktop\ToGit\B19 Ex05 MenahemOvrutski 311528160 ShainHaroni 308541713\B19 Ex05 MenahemOvrutski 311528160 ShainHaroni 308541713\Ex05.OtheloLogic\obj\Debug\OthelloLogic.csproj.CoreCompileInputs.cache
+C:\Users\Menahem\Desktop\ToGit\B19 Ex05 MenahemOvrutski 311528160 ShainHaroni 308541713\B19 Ex05 MenahemOvrutski 311528160 ShainHaroni 308541713\Ex05.OtheloLogic\obj\Debug\OthelloLogic.dll
+C:\Users\Menahem\Desktop\ToGit\B19 Ex05 MenahemOvrutski 311528160 ShainHaroni 308541713\B19 Ex05 MenahemOvrutski 311528160 ShainHaroni 308541713\Ex05.OtheloLogic\obj\Debug\OthelloLogic.pdb
+C:\Users\Menahem\Desktop\ToGit\B19 Ex05 MenahemOvrutski 311528160 ShainHaroni 308541713\B19 Ex05 MenahemOvrutski 311528160 ShainHaroni 308541713\OthelloLogic\bin\Debug\OthelloLogic.dll
+C:\Users\Menahem\Desktop\ToGit\B19 Ex05 MenahemOvrutski 311528160 ShainHaroni 308541713\B19 Ex05 MenahemOvrutski 311528160 ShainHaroni 308541713\OthelloLogic\bin\Debug\OthelloLogic.pdb
+C:\Users\Menahem\Desktop\ToGit\B19 Ex05 MenahemOvrutski 311528160 ShainHaroni 308541713\B19 Ex05 MenahemOvrutski 311528160 ShainHaroni 308541713\OthelloLogic\obj\Debug\OthelloLogic.csprojAssemblyReference.cache
+C:\Users\Menahem\Desktop\ToGit\B19 Ex05 MenahemOvrutski 311528160 ShainHaroni 308541713\B19 Ex05 MenahemOvrutski 311528160 ShainHaroni 308541713\OthelloLogic\obj\Debug\OthelloLogic.csproj.CoreCompileInputs.cache
+C:\Users\Menahem\Desktop\ToGit\B19 Ex05 MenahemOvrutski 311528160 ShainHaroni 308541713\B19 Ex05 MenahemOvrutski 311528160 ShainHaroni 308541713\OthelloLogic\obj\Debug\OthelloLogic.dll
+C:\Users\Menahem\Desktop\ToGit\B19 Ex05 MenahemOvrutski 311528160 ShainHaroni 308541713\B19 Ex05 MenahemOvrutski 311528160 ShainHaroni 308541713\OthelloLogic\obj\Debug\OthelloLogic.pdb
